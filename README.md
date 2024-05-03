@@ -17,7 +17,11 @@ Adriana P. Peréz López & Jeisaly Morales Moreno
   
   ~ PlaySound Function
 
+        PlaySound(TEXT(“song.wav"), NULL, SND_FILENAME | SND_ASYNC | SND_LOOP);
+
   ~ HANDLE Function
+
+        HANDLE variable = GetStdHandle(STD_OUTPUT_HANDLE); SetConsoleTextAttribute(variable, #);
 # Additional information
   - What is a bemol?
     
