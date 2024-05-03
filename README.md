@@ -1,6 +1,7 @@
 # bemol
 Proyecto Colaborativo COMP2315 - Programación Estructurada
 
+Adriana P. Peréz López & Jeisaly Morales Moreno
   - music player
   - What is a bemol?
     
