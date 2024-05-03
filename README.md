@@ -6,7 +6,7 @@ Adriana P. Peréz López & Jeisaly Morales Moreno
   - What is a bemol?
     
     ~ Bemol is the french word for flat. A flat is a musical symbol that gives the instruction to play a note one semitone lower.
-  - in order for the project to work properly the .wav files for the songs are necessary
+  - In order for the project to work properly the .wav files for the songs are necessary.
   - What have we accomplished since Programming Logic?
     
     ~ the code is the same in terms of structure
